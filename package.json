@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Artmadiar/starwars-names-artmadiar/issues"
   },
-  "homepage": "https://github.com/Artmadiar/starwars-names-artmadiar#readme"
+  "homepage": "https://github.com/Artmadiar/starwars-names-artmadiar#readme",
+  "devDependencies": {
+    "tslint": "^4.5.1",
+    "tslint-config-standard": "^4.0.0",
+    "typescript": "^2.2.2",
+    "typescript-formatter": "^5.1.2"
+  }
 }
