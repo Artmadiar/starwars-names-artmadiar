@@ -1,0 +1,19 @@
+{
+  "name": "starwars-names-artmadiar",
+  "version": "1.0.0",
+  "description": "Workshop OSS (TypeScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artmadiar/starwars-names-artmadiar.git"
+  },
+  "author": "artmadiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Artmadiar/starwars-names-artmadiar/issues"
+  },
+  "homepage": "https://github.com/Artmadiar/starwars-names-artmadiar#readme"
+}
